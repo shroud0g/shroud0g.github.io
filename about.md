@@ -8,8 +8,8 @@ Started learning to program in March this year with CS50 and have been continuin
 Currently taking a few online courses and actively working towards finishing the freeCodeCamp curriculum to earn the Full Stack Development Certification.
 
 ### Personal projects
-#### [Nbastats](https://github.com/shroud0g/nbastats)
-###### A dynamic website to track game logs and player stats
+**[Nbastats](https://github.com/shroud0g/nbastats)**
+* A dynamic website to track game logs and player stats
 
 ### Skills 
 * Python
