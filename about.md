@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Started learning to program in March this year with CS50 and have been continuing since.
+Currently taking a few online courses and actively working towards finishing the freeCodeCamp curriculum to earn the Full Stack Development Certification.
 
-### More Information
+### Personal projects
+#### [Nbastats](https://github.com/shroud0g/nbastats)
+##### A dynamic website to track game logs and player stats
 
-A place to include any other types of information that you'd like to include about yourself.
+### Skills 
+* Python
+* C
+* Html & CSS
+* Javascript
+* PostgreSQL
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wilsonhjda@gmail.com](mailto:wilsonhjda@gmail.com)
