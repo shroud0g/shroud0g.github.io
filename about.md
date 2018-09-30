@@ -9,14 +9,15 @@ Currently taking a few online courses and actively working towards finishing the
 
 ### Personal projects
 **[Nbastats](https://github.com/shroud0g/nbastats)**
-* A dynamic website to track game logs and player stats
+* A website to track game logs and player stats
 
 ### Skills 
 * Python
 * C
 * Html & CSS
 * Javascript
-* PostgreSQL
+* Node/Express
+* MongoDB/Mongoose
 
 ### Contact me
 
