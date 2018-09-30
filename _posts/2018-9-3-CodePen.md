@@ -3,9 +3,6 @@ layout: post
 title: Codepen projects
 ---
 Check out some of the stuff I have done on [Codepen](https://codepen.io/shroud0g/#). 
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 ## D3
 * [Treemap](https://codepen.io/shroud0g/pen/YOMEOp)
 * [Chloropeth Map](https://codepen.io/shroud0g/pen/BObwRK)
