@@ -2,7 +2,9 @@
 layout: post
 title: Codepen projects
 ---
-Check out some of the stuff I have done on [Codepen](https://codepen.io/shroud0g/#). 
+Check out some of the stuff I have done on [Codepen](https://codepen.io/shroud0g/#).
+Includes Javascript apps using React, D3 graphs and Html/Css pens.
+
 ## D3
 * [Treemap](https://codepen.io/shroud0g/pen/YOMEOp)
 * [Chloropeth Map](https://codepen.io/shroud0g/pen/BObwRK)
