@@ -18,7 +18,7 @@ Includes Javascript apps using React, D3 graphs and Html/Css pens.
 * [Drum Machine](https://codepen.io/wilsonh0/pen/wEjMJR)
 * [Markdown Previewer](https://codepen.io/wilsonh0/pen/KxQOWp)
 
-#### Javascript
+#### Javascript/jQuery
 * [Quote Machine](https://codepen.io/wilsonh0/pen/OozYxp)
 
 #### HTML/CSS
