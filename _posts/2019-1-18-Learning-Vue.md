@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Vue by making a web app.
+title: Vue.js web app
 ---
 ![Imgur](https://i.imgur.com/sTEJLuF.gif)
 
