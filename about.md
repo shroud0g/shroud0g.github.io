@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Started learning to program in March this year with CS50 and have been continuing since. Recently got the Full Stack Development Certification from [freeCodeCamp](https://www.freecodecamp.org/certification/wilsonh0/full-stack). Currently taking a few online courses to improve my knowledge in CS.
+I started learning to program with CS50 and have been continuing since. Received the Full Stack Development Certification from [freeCodeCamp](https://www.freecodecamp.org/certification/wilsonh0/full-stack). Currently taking a few online courses to improve my knowledge in CS.
 
 ### Personal projects
 **[Nbastats](https://github.com/wilsonh0/nbastats)**
