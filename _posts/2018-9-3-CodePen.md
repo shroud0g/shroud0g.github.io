@@ -2,7 +2,7 @@
 layout: post
 title: Codepen projects
 ---
-Check out some of the stuff I have done on [Codepen](https://codepen.io/shroud0g/#).
+Check out some of the stuff I have done on [Codepen](https://codepen.io/wilsonh0/#).
 Includes Javascript apps using React, D3 graphs and Html/Css pens.
 
 #### D3
